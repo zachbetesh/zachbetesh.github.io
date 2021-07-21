@@ -1,8 +1,22 @@
-body{
-  background:linear-gradient(90deg, #cce0123b 18%, #098fa7d8 82%,);
+body{ 
+  font-family:Tourney ;
+  font-style: bold ;
+  background:linear-gradient(90deg, #cce0123b 18%, #098fa7d8 82%);
   }
-  img {
-width: 46px;
-height: 64px;
+  img  {
+width: 230px;
+height: 230px;
+
 
   }
+  .elliott {
+font-size: 20px ;
+  }
+  .picture { 
+    width: 300px;
+    height: 300px ;
+  }
+    .border{ 
+      border: 12px groove rgb(40, 134, 146);
+
+    }

@@ -6,9 +6,13 @@ body{
   img  {
 width: 230px;
 height: 230px;
-
-
   }
+
+.dadBack{
+  background:white;
+}
+
+
   .elliott {
 font-size: 20px ;
   }
@@ -18,5 +22,9 @@ font-size: 20px ;
   }
     .border{ 
       border: 12px groove rgb(40, 134, 146);
-
+      
     }
+    .dad{
+        width: 20px;
+        height: 100px;
+        }

@@ -9,7 +9,7 @@ height: 230px;
   }
 
 .dadBack{
-  background:white;
+  background:linear-gradient(90deg, #09ee1cee 34%, #098fa7d8 68%, rgb(243, 239, 3) 100% );;
 }
 
 
@@ -22,9 +22,15 @@ font-size: 20px ;
   }
     .border{ 
       border: 12px groove rgb(40, 134, 146);
-      
     }
+      .mom { 
+        width: 500px;
+        height:500px;
+
+      }
+      
+    
     .dad{
-        width: 20px;
-        height: 100px;
+        width: 500px;
+        height: 500px;
         }

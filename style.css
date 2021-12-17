@@ -41,8 +41,45 @@ border-color: royalblue;
         height: 500px;
     }
 
+  
+
     .momback{
       background:linear-gradient(90deg, #f80c6fc5 34%, #940363 68%, #0f1de2de 100% );;
 
 
     }
+
+.alan{
+        width: 300px;
+        height: 300px;
+    }
+
+.zach{
+        width: 300px;
+        height: 300px;
+    }
+
+
+    .zachback{
+      background:linear-gradient(90deg, #f10000e3 34%, #0f1de2de 36%,rgba(4, 211, 66, 0.925));;
+
+
+    }
+    .valerieback{
+      background:linear-gradient(90deg, #f30468d0 34%, #eb069eb2 68%, #222fe6b9 100% );;
+
+
+    }
+
+.valerie{
+        width: 400px;
+        height: 300px;
+    } 
+
+    .jesse{
+        width: 300px;
+        height: 300px;
+    }
+
+.jesseback{
+      background:linear-gradient(90deg, #f0e003 34%, #a86f05 68%, #0510a7b9 100% );;    

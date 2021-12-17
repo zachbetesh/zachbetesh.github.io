@@ -30,15 +30,15 @@ border-color: royalblue;
       border: 12px groove rgb(40, 134, 146);
     }
       .mom { 
-        width: 500px;
-        height:500px;
+        width: 800px;
+        height:600px;
 
       }
       
     
     .dad{
-        width: 500px;
-        height: 500px;
+        width: 800px;
+        height: 700px;
     }
 
   
@@ -50,14 +50,23 @@ border-color: royalblue;
     }
 
 .alan{
-        width: 300px;
-        height: 300px;
+        width: 600px;
+        height: 500px;
+    }
+    .alan2{
+        width: 600px;
+        height: 500px;
     }
 
 .zach{
-        width: 300px;
-        height: 300px;
+        width: 650px;
+        height: 500px;
     }
+    .zach2{
+        width: 500px;
+        height: 500px;
+    }
+
 
 
     .zachback{
@@ -72,13 +81,18 @@ border-color: royalblue;
     }
 
 .valerie{
-        width: 400px;
-        height: 300px;
+        width: 600px;
+        height: 600px;
+      
     } 
+    .valerie2{
+        width: 650px;
+        height: 600px;
+    }
 
     .jesse{
-        width: 300px;
-        height: 300px;
+        width: 500px;
+        height: 500px;
     }
 
 .jesseback{
